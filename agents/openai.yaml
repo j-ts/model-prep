@@ -1,0 +1,4 @@
+interface:
+  display_name: "Model Prep"
+  short_description: "Blender artwork, geometry and FDM print preparation"
+  default_prompt: "Use $model-prep to prepare this model while preserving its source and reviewing editable SVG artwork before applying colours."
